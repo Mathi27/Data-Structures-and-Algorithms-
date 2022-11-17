@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "countdigits.dart",
+            "program": "leetcode832.dart",
         }
     ]
 }
